@@ -1,0 +1,32 @@
+p.satu {
+    background-color: #d16704;
+    font-size: 1em;
+    font-family: serif;
+    font-weight: lighter;
+    color: black;
+}
+
+p.dua {
+    background-color: blue;
+    color: white;
+    font-size: 1em;
+    font-family: serif;
+    font-weight: bold;      
+}
+
+p.tiga {
+    background-color: white;
+    border-style: ridge;
+    font-size: 16px;
+    font-family: monospace;
+    font-weight: lighter;
+    color: black;
+}
+
+p.empat {
+    background-color: grey;
+    font-family: serif;
+    font-size: 16px;
+    font-weight: bold;   
+    color: black;
+}
